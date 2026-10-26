@@ -19,13 +19,13 @@ Grande parte das atividades usa um **mini dataset próprio**, construído na Ati
 
 ## Atividades
 
-| # | Atividade | Unidade / Capítulo | Professor | Pasta | Notebook |
+| # | Atividade | Unidade / Capítulo | Técnicas principais | Pasta | Notebook |
 |---|---|---|---|---|---|
-| 1 | Fundamentos de Processamento de Imagens | Unidade 1 · Capítulo 1 | Alyson Bezerra | [Abrir](<Atividade 1 - Fundamentos de Processamento de Imagens/>) | [Colab](https://colab.research.google.com/drive/1l6Aga7io5GFzkMwaYwZ984XC1xOctk0a?usp=sharing) |
-| 2 | Suavização, Remoção de Ruído e Detecção de Bordas | Unidade 2 · Capítulo 1 | Rafael Carmo | [Abrir](<Atividade 2 - Suavização, Remoção de Ruído e Detecção de Bordas/>) | [Colab](https://colab.research.google.com/drive/1Mmdb5uxCBdv4UcXfAt-LxP4AHcdnA_nx?usp=sharing) |
-| 3 | Filtragem de Imagens e Análise de Ruído | Unidade 2 · Capítulo 1 | Rafael Carmo | [Abrir](<Atividade 3 - Filtragem de Imagens e Análise de Ruído/>) | [Colab](https://colab.research.google.com/drive/1B_7wCsD3so0247m_bhUhoRaMhIZv82AT?usp=sharing) |
-| 4 | Segmentação, Operações Morfológicas e Extração de Características | Unidade 3 · Capítulo 1 | Rafael Carmo | [Abrir](<Atividade 4 - Segmentação, Operações Morfológicas e Extração de Características/>) | [Colab](https://colab.research.google.com/drive/1dlkoc59FaXFjHOKJxhc6Tr3up7XexxTf?usp=sharing) |
-| 5 | Análise Global, Local e de Textura em Mini Dataset Próprio | Unidade 3 · Capítulo 2 | Rafael Carmo | [Abrir](<Atividade 5 - Análise Global, Local e de Textura em Mini Dataset Próprio/>) | [Colab](https://colab.research.google.com/drive/1h8KOpkSLbrCYsxeNeO6gZnvtJze2IpoU?usp=sharing) |
+| 1 | Fundamentos de Processamento de Imagens | Unidade 1 · Capítulo 1 | Resolução, RGB/HSV/cinza, quantização, JPEG × PNG | [Abrir](<Atividade 1 - Fundamentos de Processamento de Imagens/>) | [Colab](https://colab.research.google.com/drive/1l6Aga7io5GFzkMwaYwZ984XC1xOctk0a?usp=sharing) |
+| 2 | Suavização, Remoção de Ruído e Detecção de Bordas | Unidade 2 · Capítulo 1 | Média, Gaussiano, mediana, Sobel, Prewitt, Canny | [Abrir](<Atividade 2 - Suavização, Remoção de Ruído e Detecção de Bordas/>) | [Colab](https://colab.research.google.com/drive/1Mmdb5uxCBdv4UcXfAt-LxP4AHcdnA_nx?usp=sharing) |
+| 3 | Filtragem de Imagens e Análise de Ruído | Unidade 2 · Capítulo 1 | Ruído gaussiano e sal e pimenta, FFT, passa-baixa e Laplaciano | [Abrir](<Atividade 3 - Filtragem de Imagens e Análise de Ruído/>) | [Colab](https://colab.research.google.com/drive/1B_7wCsD3so0247m_bhUhoRaMhIZv82AT?usp=sharing) |
+| 4 | Segmentação, Operações Morfológicas e Extração de Características | Unidade 3 · Capítulo 1 | Otsu, adaptativa, watershed, morfologia, regionprops | [Abrir](<Atividade 4 - Segmentação, Operações Morfológicas e Extração de Características/>) | [Colab](https://colab.research.google.com/drive/1dlkoc59FaXFjHOKJxhc6Tr3up7XexxTf?usp=sharing) |
+| 5 | Análise Global, Local e de Textura em Mini Dataset Próprio | Unidade 3 · Capítulo 2 | Histogramas, entropia, Shi-Tomasi, ORB + RANSAC, GLCM, LBP | [Abrir](<Atividade 5 - Análise Global, Local e de Textura em Mini Dataset Próprio/>) | [Colab](https://colab.research.google.com/drive/1h8KOpkSLbrCYsxeNeO6gZnvtJze2IpoU?usp=sharing) |
 
 ### Resumo de cada atividade
 
